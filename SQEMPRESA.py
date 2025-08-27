@@ -12,4 +12,5 @@ resultados = cursor.fetchall()
 
 
 for funcionario in resultados:
+
     print(funcionario)
